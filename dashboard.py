@@ -350,7 +350,7 @@ if page == "📉 Technical Analysis":
     show_technical_analysis(df)
 
 # Initialize NewsAPI client (replace 'YOUR_NEWSAPI_KEY' with your real API key)
-newsapi = NewsApiClient(api_key='YOUR_NEWSAPI_KEY')
+newsapi = NewsApiClient(api_key='1e7d1c0997e0421dbd4ce2049b982888')
 
 # Load sentiment analysis pipeline
 # Using a pre-trained sentiment model
