@@ -7,3 +7,4 @@ requests
 plotly
 newsapi-python
 transformers
+torch
