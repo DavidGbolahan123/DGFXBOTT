@@ -239,7 +239,7 @@ def show_technical_analysis(df):
         "EUR/USD", "GBP/USD", "USD/JPY", "USD/CHF", "AUD/USD",
         "USD/CAD", "NZD/USD", "EUR/GBP", "EUR/JPY", "GBP/JPY",
         "EUR/CHF", "AUD/JPY", "GBP/CHF", "CHF/JPY", "AUD/CAD",
-        "EUR/AUD", "EUR/CAD", "USD/MXN", "USD/BRL", "USD/SGD"
+        "EUR/AUD", "EUR/CAD", "USD/MXN", "USD/BRL", "USD/SGD", “BTC/USD”
     ]
     
     # Select symbol
